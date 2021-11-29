@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&family=Source+Sans+Pro:wght@400;600;900&display=swap');
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+main {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+main img {
+    width: 80%;
+    border:1px solid #04146c;
+    margin-bottom: 10px;
+}
+
+
+h1 { font-size: 88px;
+font-weight: 900;}
+
+
+h2 { font-size:38px;
+font-weight:400;
+width: 80%;
+margin:auto;
+color:white;
+background-color:#04146c;
+
+}
+
+
+h3 { font-size: 27px;
+font-weight: 400;}
+
+main p { background-color:#edf7ff;
+font-size: 24px; font-weight:400; width: 80%;
+margin:auto;}
+
+footer { width: 100%; text-align:center;
+    font-family: 'Poppins', sans-serif;
+    color: #0a2ff1;
+
+}
+
+footer img { width: 100px; margin-left: 10px; vertical-align: middle;}
+
+footer p { font-size: 32px; font-weight:300 ;}
+strong { font-weight: 700;}
